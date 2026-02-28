@@ -1,13 +1,13 @@
 ### File Structure
+```
 .
-└── wp-content/
-    └── themes/
-        └── your-theme/
-            ├── css/
-            │   └── prettify.css
-            └── js/
-                └── prettify.js
-
+├── wp-content/
+│   └── your-theme/
+│       └── css/
+|           └── prettify.css
+│       └── js/
+|           └── prettify.js
+```
 
 ### Instruction
 - 把以上的 CSS 和 JS file 复制在你的Themes 中，然后在your-theme/functions.php 加上这一段
